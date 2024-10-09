@@ -1,0 +1,66 @@
+/* styles.qss */
+
+/* 全局字体和背景 */
+QWidget {
+    background-color: #2e2e2e;
+    color: white;
+    font-family: "Microsoft YaHei";
+    font-size: 10pt;
+}
+
+/* 设置选中文本的颜色 */
+QLabel#messageLabel {
+    color: #000000;
+}
+
+QLabel#messageLabel::selection {
+    background-color: #C0C0C0;  /* 选中文本的背景色 */
+    color: #000000;             /* 选中文本的颜色 */
+}
+
+/* 按钮样式 */
+QPushButton {
+    background-color: #337ab7;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+QPushButton:hover {
+    background-color: #286090;
+}
+
+/* 输入框样式 */
+QLineEdit {
+    background-color: #3e3e3e;
+    color: white;
+    border: 1px solid #555;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+/* 滚动条样式（带弧角） */
+QScrollBar:vertical {
+    background-color: #2e2e2e;
+    width: 12px;
+    margin: 0px 0px 0px 0px;
+}
+
+QScrollBar::handle:vertical {
+    background-color: #5c5c5c;
+    min-height: 20px;
+    border-radius: 6px;  /* 圆角 */
+}
+
+QScrollBar::sub-line:vertical,
+QScrollBar::add-line:vertical {
+    height: 0px;
+}
+
+QScrollBar::add-page:vertical,
+QScrollBar::sub-page:vertical {
+    background: none;
+}
+
+/* 其他样式规则... */
