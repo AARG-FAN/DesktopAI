@@ -1262,7 +1262,8 @@ class DesktopAssistantApp(QApplication):
 
 def main():
     app = DesktopAssistantApp(sys.argv)
-    with open("styles.qss", "r") as f:
+    # 指定编码为 utf-8 来读取样式表
+    with open("styles.qss", "r", encoding="utf-8") as f:
         app.setStyleSheet(f.read())
     sys.exit(app.exec_())
 
