@@ -5,7 +5,7 @@
     },
     "zhipuai_api_key": "75d95ba977d5df8c15be3ae69156ef98.82asPfVz9OLfAdeZ",
     "voice_tone": "lovey-dovey",
-    "log_file_path": "D:/AI/desktopAI/log/conversation.log",
+    "log_file_path": "log/conversation.log",
     "history_limit": 1000,
     "user": {
         "uid": "2101710118"
