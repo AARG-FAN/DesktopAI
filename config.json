@@ -14,11 +14,13 @@
     "roles": {
         "role1": {
             "gif1": "assets/role1/gif1.gif",
-            "gif2": "assets/role1/gif2.gif"
+            "gif2": "assets/role1/gif2.gif",
+            "voice_type": "BV700_V2_streaming"
         },
         "role2": {
             "gif1": "assets/role2/gif1.gif",
-            "gif2": "assets/role2/gif2.gif"
+            "gif2": "assets/role2/gif2.gif",
+            "voice_type": "BV107_streaming"
         }
     },
     "selected_role": "role2"
