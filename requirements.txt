@@ -15,3 +15,4 @@ pyaudio
 webrtcvad
 requests
 zhipuai
+pygame
