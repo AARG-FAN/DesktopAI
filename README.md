@@ -2,7 +2,11 @@
 - This project is a framework for desktop AI assistant based on sensevoice: https://github.com/FunAudioLLM/SenseVoice , BigModel platform: https://bigmodel.cn/ , Volcano Engine: https://www.volcengine.com/ 
 - please check this link for more info and api docs
 
-##  Installation
+##  Installation   
+Tutorial Video: 
+https://www.bilibili.com/video/BV1eY2VYDEH6/   
+
+   
 - 1.下载miniconda/anaconda（如有请忽略）  
 https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe   
 - 2.下载C++Make Tools（靠这个编译c++,如有Visual Studio请忽略）   
