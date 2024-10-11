@@ -3,20 +3,20 @@
 - please check this link for more info and api docs
 
 ##  Installation
-1.下载miniconda/anaconda（如有请忽略）
+- 1.下载miniconda/anaconda（如有请忽略）
 https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe 
-2.下载C++Make Tools（靠这个编译c++,如有Visual Studio请忽略）
+- 2.下载C++Make Tools（靠这个编译c++,如有Visual Studio请忽略）
 https://aka.ms/vs/17/release/vs_BuildTools.exe 
-3.Conda中创建虚拟环境：
+- 3.Conda中创建虚拟环境：
 conda create -n desktopai python==3.8.19
 conda  activate desktopai
-4.下载代码：
+- 4.下载代码：
 cd /d “your dir”  (导航到安装根文件夹)  
 git clone https://github.com/AARG-FAN/DesktopAI.git
-5.cd /d DesktopAI  (导航到项目的文件夹)  
-6.安装依赖：
+- 5.cd /d DesktopAI  (导航到项目的文件夹)  
+- 6.安装依赖：
 pip install -r requirements.txt
-7.启动：
+- 7.启动：
 python main.py
 
 
