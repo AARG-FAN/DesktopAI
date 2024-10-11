@@ -23,7 +23,12 @@ pip install -r requirements.txt
 - 7.启动：  
 python main.py  
 
+##  Tips
+- 1.按空格键可以跳过当前语音播放  
+- 2.右键休眠可以让他休眠不再处理文字。右键可以选择设置特定词语作为唤醒词，休眠后检测到特定词语后会唤醒AI  
+- 3.更换角色形象可以在文件夹assest中的role1和role2文件夹中同名替换gif1（静止）和gif2（说话）文件即可   
 
+  
 ##  Attention
 - 安装成功后启动项目时候不要用vpn，因为api服务商在国内，vpn影响通信
 
