@@ -1,4 +1,7 @@
 ##  General Info
+- 20241012update：1.修复聊天界面滑杆问题 2.增加休眠与唤醒功能 3.修补部分bug
+
+##  General Info
 - This project is a framework for desktop AI assistant based on sensevoice: https://github.com/FunAudioLLM/SenseVoice , BigModel platform: https://bigmodel.cn/ , Volcano Engine: https://www.volcengine.com/ 
 - please check this link for more info and api docs
 
