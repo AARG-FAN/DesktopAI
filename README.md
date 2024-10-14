@@ -4,7 +4,7 @@
 ##  General Info
 - This project is a framework for desktop AI assistant based on sensevoice: https://github.com/FunAudioLLM/SenseVoice , BigModel platform: https://bigmodel.cn/ , Volcano Engine: https://www.volcengine.com/ 
 - please check this link for more info and api docs   
-
+- UI demo:   
 ![image](https://github.com/user-attachments/assets/e76e8345-024d-480f-9724-0909c915c9b2)    
 ![image](https://github.com/user-attachments/assets/46556276-46cb-4abe-98aa-5c766e631e51)    
 
