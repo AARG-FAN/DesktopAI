@@ -1,8 +1,8 @@
 ##  General Info
-- 20241012update：1.修复聊天界面滑杆问题 2.增加休眠与唤醒功能 3.修补部分bug
-![image](https://github.com/user-attachments/assets/c298a378-a541-4131-b41b-ec01148653f0)
-![image](https://github.com/user-attachments/assets/e76e8345-024d-480f-9724-0909c915c9b2)
-![image](https://github.com/user-attachments/assets/46556276-46cb-4abe-98aa-5c766e631e51)
+- 20241012update：1.修复聊天界面滑杆问题 2.增加休眠与唤醒功能 3.修补部分bug   
+
+![image](https://github.com/user-attachments/assets/e76e8345-024d-480f-9724-0909c915c9b2)    
+![image](https://github.com/user-attachments/assets/46556276-46cb-4abe-98aa-5c766e631e51)    
 
 
 ##  General Info
