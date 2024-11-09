@@ -1,0 +1,43 @@
+{
+    "volcano_api_key": {
+        "appid": "1402478096",
+        "access_token": "d2D54FVB7zm_ZdwaeABOlAKBo-z6Xkjt"
+    },
+    "zhipuai_api_key": "ed0e0a6391c0c42e0e4d9bed5b0bd5f1.eRJZmEpuhF58PyxE",
+    "voice_tone": "lovey-dovey",
+    "log_file_path": "log/conversation.log",
+    "history_limit": 1000,
+    "user": {
+        "uid": "2101710118"
+    },
+    "voice_type": "BV428_streaming",
+    "roles": {
+        "\u7c89\u8272\u59b9\u59b9": {
+            "gif1": "assets/role1/gif1.gif",
+            "gif2": "assets/role1/gif2.gif",
+            "voice_type": "BV428_streaming"
+        },
+        "\u5e05\u6c14\u5c0f\u54e5": {
+            "gif1": "assets/role2/gif1.gif",
+            "gif2": "assets/role2/gif2.gif",
+            "voice_type": "BV107_streaming"
+        },
+        "\u80d6\u718a\u732b": {
+            "gif1": "assets/role3/gif1.gif",
+            "gif2": "assets/role3/gif2.gif",
+            "voice_type": "BV050_streaming"
+        },
+        "\u68d5\u8272\u59b9\u59b9": {
+            "gif1": "assets/role4/gif1.gif",
+            "gif2": "assets/role4/gif2.gif",
+            "voice_type": "BV700_V2_streaming"
+        },
+        "\u6027\u611f\u59d0\u59d0": {
+            "gif1": "assets/role5/gif1.gif",
+            "gif2": "assets/role5/gif2.gif",
+            "voice_type": "BV428_streaming"
+        }
+    },
+    "selected_role": "\u7c89\u8272\u59b9\u59b9",
+    "wake_up_word": "\u4f60\u597d"
+}
